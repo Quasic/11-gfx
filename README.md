@@ -1,2 +1,2 @@
 # DragonBasher-gfx
-Graphics packs for [Dragon Basher](https://github.com/Quasic/DragonBasher)
+Graphics packs to be used with the [Dragon Basher](https://github.com/Quasic/DragonBasher) repository
