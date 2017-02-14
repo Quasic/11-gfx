@@ -1,0 +1,2 @@
+# js files should be handled by the installer and engine
+*.js
