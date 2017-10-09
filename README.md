@@ -6,7 +6,7 @@ Different packs will use different branches or different repos.
 Credits for images will be in the [license.txt](//github.com/Quasic/license.txt) file.
 
 ## master pack (Queville)
-The master pack is based on the one from [Queville](http://queville.com).
+The master pack is based on the one from [Queville](http://queville.com), the characters of which, drawn by Joe, were actually included in here as a 7z archive, though that may have been accidental.
 
 Many of the enemy graphics come from old school public domain Nethack/Rouge "[RLTiles](http://rltiles.sourceforge.net/)".
 
@@ -18,4 +18,4 @@ characters, were drawn by Joe using
 than programs like Gimp and has an old-school
 PSP (that's Paint Shop Pro) feel to it.
 
-[Quasic](//github.com/Quasic)'s only pre-git imagery contribution was a gray character head and body facing front, instead of left or right, for use when a character is first created. It was drawn in Photofiltre based on the left and right images. (I made two versions, one with the arms on the body instead of the head graphic, and both may be on here, somewhere...)
+[Quasic](//github.com/Quasic)'s only pre-git imagery contribution was a gray character head and body facing front, instead of left or right, for use when a character is first created. It was drawn in Photofiltre based on the left and right images. (I made two versions: The one with the arms on the body instead of the head graphic was used, and the other is in [c/c2](https://github.com/Quasic/DragonBasher-gfx/tree/11-gfx/c/c2))
