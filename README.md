@@ -5,8 +5,8 @@ Different packs will use different branches or different repos.
 
 Credits for images will be in the [license.txt](//github.com/Quasic/license.txt) file.
 
-## master pack (Queville)
-The master pack is based on the one from [Queville](http://queville.com), the characters of which, drawn by Joe, were actually included in here as a 7z archive, though that may have been accidental.
+## 11-gfx pack from Queville
+This pack is based on the one from [Queville](http://queville.com), the characters of which, drawn by Joe, were actually included in here as a 7z archive, though that may have been accidental.
 
 Many of the enemy graphics come from old school public domain Nethack/Rouge "[RLTiles](http://rltiles.sourceforge.net/)".
 
