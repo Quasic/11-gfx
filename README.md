@@ -3,7 +3,7 @@ Graphics packs to be used with the [Dragon Basher](https://github.com/Quasic/Dra
 
 Different packs will use different branches or different repos.
 
-Credits for images will be in the [license.txt](//github.com/Quasic/license.txt) file.
+Credits for images will be in the [license.txt](https://github.com/Quasic/DragonBasher-gfx/blob/11-gfx/license.txt) file.
 
 ## 11-gfx pack from Queville
 This pack is based on the one from [Queville](http://queville.com), the characters of which, drawn by Joe, were actually included in here as a 7z archive, though that may have been accidental.
