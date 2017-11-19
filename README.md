@@ -1,4 +1,8 @@
 # DragonBasher-gfx
+[![Build Status](https://travis-ci.org/Quasic/DragonBasher-gfx.svg?branch=11-gfx)](https://travis-ci.org/Quasic/DragonBasher-gfx)
+![Code size](https://img.shields.io/github/languages/code-size/badges/shields.svg)
+![Repo size](https://img.shields.io/github/repo-size/badges/shields.svg) 
+
 Graphics packs to be used with the [Dragon Basher](https://github.com/Quasic/DragonBasher) repository
 
 Different packs will use different branches or different repos.
