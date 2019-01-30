@@ -89,6 +89,7 @@ function testcases(assert,log){
 
 // Bootstrap:
 
+// WScript, CScript
 if(typeof WScript == "object"){
 	WScript.echo("WScript "+WScript.version);
 	var
@@ -113,7 +114,9 @@ if(typeof WScript == "object"){
 		function(t,m){if(!t)throw new Error(m);},
 		function(m){WScript.echo(m);}
 	);
-}else if(typeof module == "object" && module.exports){
+
+// Node.js
+}else if(typeof module === "object" && module.exports && typeof process === "object"){
 	console.log(process.versions);
 	var
 		fs = require("fs"),
