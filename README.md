@@ -3,6 +3,8 @@
 
 Graphics packs to be used with the [Dragon Basher](https://github.com/Quasic/DragonBasher) repository
 
+View them with [11-viewer](//quasic.github.io/11-gfx/11-viewer.htm).
+
 Different packs will use different branches or different repos.
 
 Credits for images will be in the [license.txt](https://github.com/Quasic/DragonBasher-gfx/blob/11-gfx/license.txt) file.
